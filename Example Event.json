@@ -1,0 +1,6 @@
+POST /publish
+
+{
+    "event_type": "order_created",
+    "order_id": 101
+}
